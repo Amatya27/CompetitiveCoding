@@ -1,0 +1,1 @@
+To check if a number is perfect square and return true or false
